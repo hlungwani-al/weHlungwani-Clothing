@@ -1,0 +1,20 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.top-section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.navbar-items {
+  list-style: none;
+  display: flex;
+}
+ul li {
+  margin-right: 5px;
+}
+.my-heading {
+  text-align: center;
+  color: limegreen;
+}
